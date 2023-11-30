@@ -1,0 +1,342 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 18,
+    "passes": 18,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-11-30T11:52:32.152Z",
+    "end": "2023-11-30T11:52:32.200Z",
+    "duration": 48
+  },
+  "tests": [
+    {
+      "title": "contains a <head> tag",
+      "fullTitle": "index.html contains a <head> tag",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <body> tag",
+      "fullTitle": "index.html contains a <body> tag",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html within <head> contains a <link> tag",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the main.css file with a relative path",
+      "fullTitle": "index.html within <head> correctly links to the main.css file with a relative path",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"red\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"red\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"orange\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"orange\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"yellow\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"yellow\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"green\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"green\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"blue\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"blue\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"indigo\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"indigo\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"violet\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"violet\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #red div border-top-color to #f00",
+      "fullTitle": "main.css sets #red div border-top-color to #f00",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #orange div border-top-color to #ffa500",
+      "fullTitle": "main.css sets #orange div border-top-color to #ffa500",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #yellow div border-top-color to #ff0",
+      "fullTitle": "main.css sets #yellow div border-top-color to #ff0",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #green div border-top-color to #00bc3f",
+      "fullTitle": "main.css sets #green div border-top-color to #00bc3f",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #blue div border-top-color to #06f",
+      "fullTitle": "main.css sets #blue div border-top-color to #06f",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #indigo div border-top-color to #8a2be2",
+      "fullTitle": "main.css sets #indigo div border-top-color to #8a2be2",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #violet div border-top-color to #d300c9",
+      "fullTitle": "main.css sets #violet div border-top-color to #d300c9",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "contains a <head> tag",
+      "fullTitle": "index.html contains a <head> tag",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <body> tag",
+      "fullTitle": "index.html contains a <body> tag",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html within <head> contains a <link> tag",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the main.css file with a relative path",
+      "fullTitle": "index.html within <head> correctly links to the main.css file with a relative path",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"red\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"red\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"orange\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"orange\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"yellow\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"yellow\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"green\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"green\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"blue\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"blue\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"indigo\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"indigo\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"violet\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"violet\" ",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #red div border-top-color to #f00",
+      "fullTitle": "main.css sets #red div border-top-color to #f00",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #orange div border-top-color to #ffa500",
+      "fullTitle": "main.css sets #orange div border-top-color to #ffa500",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #yellow div border-top-color to #ff0",
+      "fullTitle": "main.css sets #yellow div border-top-color to #ff0",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #green div border-top-color to #00bc3f",
+      "fullTitle": "main.css sets #green div border-top-color to #00bc3f",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #blue div border-top-color to #06f",
+      "fullTitle": "main.css sets #blue div border-top-color to #06f",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #indigo div border-top-color to #8a2be2",
+      "fullTitle": "main.css sets #indigo div border-top-color to #8a2be2",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #violet div border-top-color to #d300c9",
+      "fullTitle": "main.css sets #violet div border-top-color to #d300c9",
+      "file": "/home/araytone/Development/se-prep/phase-0-css-rainbow-lab/test/main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
